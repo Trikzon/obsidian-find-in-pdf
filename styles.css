@@ -1,8 +1,12 @@
-/*
+.find-in-pdf-active-match {
+	align-items: center;
+	display: flex;
+	/*flex-basis: 54px;*/
+	justify-content: center;
+	padding: 0 8px 0 8px;
+}
 
-This CSS file will be included with your plugin, and
-available in the app when your plugin is enabled.
-
-If your plugin does not need CSS, delete this file.
-
-*/
+.find-in-pdf-webview {
+	width: 100%;
+	height: 100%;
+}
